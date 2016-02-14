@@ -1,5 +1,5 @@
 //
-//  Subject.h
+//  RACObject.m
 //  RACDemo
 //
 //  Created by honglianglu on 2/14/16.
@@ -8,6 +8,11 @@
 
 #import "RACObject.h"
 
-@interface Subject : RACObject
+@implementation RACObject
+
+- (void)main
+{
+    // override
+}
 
 @end

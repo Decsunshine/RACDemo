@@ -1,5 +1,5 @@
 //
-//  Subject.h
+//  ReplaySubject.h
 //  RACDemo
 //
 //  Created by honglianglu on 2/14/16.
@@ -8,6 +8,6 @@
 
 #import "RACObject.h"
 
-@interface Subject : RACObject
+@interface ReplaySubject : RACObject
 
 @end

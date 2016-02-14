@@ -1,13 +1,15 @@
 //
-//  Subject.h
+//  RACObject.h
 //  RACDemo
 //
 //  Created by honglianglu on 2/14/16.
 //  Copyright © 2016 decsunshine. All rights reserved.
 //
 
-#import "RACObject.h"
+#import <Foundation/Foundation.h>
 
-@interface Subject : RACObject
+@interface RACObject : NSObject
+
+- (void)main;
 
 @end
